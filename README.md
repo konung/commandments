@@ -1,3 +1,5 @@
+# 13 Commandments of a programmer (reminder to self) 
+
 - [13 Commandments of a programmer (reminder to self)](#13-commandments-of-a-programmer-reminder-to-self)
     - [0. Thou shalt “be excellent to each other”](#0-thou-shalt-%E2%80%9Cbe-excellent-to-each-other%E2%80%9D)
     - [1. Thou shalt learn command line](#1-thou-shalt-learn-command-line)
@@ -14,7 +16,7 @@
     - [12. Thou shalt never cease to learn new things](#12-thou-shalt-never-cease-to-learn-new-things)
 
 
-# 13 Commandments of a programmer (reminder to self) 
+
 
 ### 0. Thou shalt “be excellent to each other”
 
