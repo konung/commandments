@@ -1,3 +1,18 @@
+- [13 Commandments of a programmer (reminder to self)](#13-commandments-of-a-programmer-reminder-to-self)
+    - [0. Thou shalt “be excellent to each other”](#0-thou-shalt-%E2%80%9Cbe-excellent-to-each-other%E2%80%9D)
+    - [1. Thou shalt learn command line](#1-thou-shalt-learn-command-line)
+    - [2. Thou shalt type > 40 WPM](#2-thou-shalt-type-40-wpm)
+    - [3. Thou shalt learn your IDE](#3-thou-shalt-learn-your-ide)
+    - [4. Thou shalt use SCM](#4-thou-shalt-use-scm)
+    - [5. Thou shalt code every day](#5-thou-shalt-code-every-day)
+    - [6. Thou shalt learn your primary language well](#6-thou-shalt-learn-your-primary-language-well)
+    - [7. Thou shalt test](#7-thou-shalt-test)
+    - [8. Thou shalt learn your stack](#8-thou-shalt-learn-your-stack)
+    - [// 9. Thou shalt comment](#9-thou-shalt-comment)
+    - [10. Thou shalt open-source](#10-thou-shalt-open-source)
+    - [11. Thou shalt learn OOP. Then FP. Then DP. Then IP.](#11-thou-shalt-learn-oop-then-fp-then-dp-then-ip)
+    - [12. Thou shalt never cease to learn new things](#12-thou-shalt-never-cease-to-learn-new-things)
+  - [P.S.:](#ps)
 
 # 13 Commandments of a programmer (reminder to self) 
 
