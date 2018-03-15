@@ -1,5 +1,5 @@
 
-# 13 Commandments of a student programmer (reminder to self) 
+# 13 Commandments of a programmer (reminder to self) 
 
 ### 0. Thou shalt “be excellent to each other”
 
