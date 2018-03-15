@@ -12,7 +12,7 @@
     - [10. Thou shalt open-source](#10-thou-shalt-open-source)
     - [11. Thou shalt learn OOP. Then FP. Then DP. Then IP.](#11-thou-shalt-learn-oop-then-fp-then-dp-then-ip)
     - [12. Thou shalt never cease to learn new things](#12-thou-shalt-never-cease-to-learn-new-things)
-  - [P.S.:](#ps)
+
 
 # 13 Commandments of a programmer (reminder to self) 
 
