@@ -54,7 +54,7 @@ Read Gang of Four book (https://en.wikipedia.org/wiki/Design_Patterns) and under
 Cease learning -> increase entropy -> universe dies a little -> you make a puppy cry somewhere. DO NOT MAKE A PUPPY CRY! ( You know how John Wick feels about puppies…)
 
 
--------------
+
 
 
 ## P.S.:
