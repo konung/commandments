@@ -54,7 +54,10 @@ Read Gang of Four book (https://en.wikipedia.org/wiki/Design_Patterns) and under
 Cease learning -> increase entropy -> universe dies a little -> you make a puppy cry somewhere. DO NOT MAKE A PUPPY CRY! ( You know how John Wick feels about puppies…)
 
 
-P.S.:
+-------------
+
+
+**P.S.:**
 This list was prompted by this question on Quora: [What are some of the best tips from experienced programmers for students?](http://qr.ae/TU1RAM).
 Feel free to PR with your suggestions. 
 
