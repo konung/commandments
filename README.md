@@ -57,7 +57,7 @@ Cease learning -> increase entropy -> universe dies a little -> you make a puppy
 -------------
 
 
-**P.S.:**
+## P.S.:
 This list was prompted by this question on Quora: [What are some of the best tips from experienced programmers for students?](http://qr.ae/TU1RAM).
 Feel free to PR with your suggestions. 
 
