@@ -8,7 +8,7 @@
     - [6. Thou shalt learn your primary language well](#6-thou-shalt-learn-your-primary-language-well)
     - [7. Thou shalt test](#7-thou-shalt-test)
     - [8. Thou shalt learn your stack](#8-thou-shalt-learn-your-stack)
-    - [// 9. Thou shalt comment](#9-thou-shalt-comment)
+    - [// 9. Thou shalt comment](#-9-thou-shalt-comment)
     - [10. Thou shalt open-source](#10-thou-shalt-open-source)
     - [11. Thou shalt learn OOP. Then FP. Then DP. Then IP.](#11-thou-shalt-learn-oop-then-fp-then-dp-then-ip)
     - [12. Thou shalt never cease to learn new things](#12-thou-shalt-never-cease-to-learn-new-things)
